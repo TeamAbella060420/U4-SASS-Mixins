@@ -33,7 +33,7 @@ p {
 }
 
 a {
-  color: #1d393f;
+  color: #0b0b8a;
   text-decoration: none;
 }
 
@@ -159,7 +159,7 @@ footer::before {
 
 .card .icon,
 .card h1 {
-  color: #1d393f;
+  color: #0b0b8a;
 }
 
 .btn {
@@ -179,7 +179,7 @@ footer::before {
 
 .btn-info {
   font-size: 0.85em;
-  background-color: #1d393f;
+  background-color: #0b0b8a;
   margin-top: auto;
 }
 
